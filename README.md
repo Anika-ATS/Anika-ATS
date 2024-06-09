@@ -1,4 +1,4 @@
-[!]( src="https://rahuldkjain.github.io/gh-profile-readme-generator/")
+![Banner]( src="https://rahuldkjain.github.io/gh-profile-readme-generator/")
 
 
 
