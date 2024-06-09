@@ -1,4 +1,4 @@
-(https://rahuldkjain.github.io/gh-profile-readme-generator/)
+<img  src="https://rahuldkjain.github.io/gh-profile-readme-generator/">
 
 
 
