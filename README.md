@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anika Tabassum</h1>
+<h1 align="center">Assalamualaikum👋, This is Anika Tabassum</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-ats&label=Profile%20views&color=0e75b6&style=flat" alt="anika-ats" /> </p>
@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Next Js,Typescript and backend techonologies.**
 
-- 👨‍💻 All of my projects are available at [https://6665f8066ba16efdd444341f--harmonious-panda-e0f04e.netlify.app/](https://6665f8066ba16efdd444341f--harmonious-panda-e0f04e.netlify.app/)
+- 👨‍💻 Portfolio link: [https://6665f8066ba16efdd444341f--harmonious-panda-e0f04e.netlify.app/](https://6665f8066ba16efdd444341f--harmonious-panda-e0f04e.netlify.app/)
 
 - 💬 Ask me about **react, express js**
 
 - 📫 How to reach me **tabassumanika210@gmail.com**
 
-- ⚡ Fun fact **still convinced Still convinced'Ctrl+Z' should work in real life**
+- ⚡ Fun fact **Still convinced 'Ctrl+Z' should work in real life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
