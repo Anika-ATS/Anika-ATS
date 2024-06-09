@@ -1,4 +1,4 @@
-![Banner]( src="https://github.com/Anika-ATS/Anika-ATS/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo%20(1).png")
+![Banner](https://github.com/Anika-ATS/Anika-ATS/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo%20(1).png)
 
 
 
