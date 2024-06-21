@@ -1,8 +1,4 @@
-![Banner]([https://github.com/Anika-ATS/Anika-ATS/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png])
-
-
-
-
+![Banner](https://github.com/Anika-ATS/Anika-ATS/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Assalamualaikum👋, This is Anika Tabassum</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
